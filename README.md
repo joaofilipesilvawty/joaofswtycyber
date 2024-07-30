@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">Coding Skills</h2>
+<h2 align="left">Coding</h2>
 
 ###
 
