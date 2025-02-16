@@ -28,21 +28,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<h2 align="left">Projects</h2>
-
-<p align="left">
-Here are some of the projects I've been working on:
-</p>
-
-- [Project 1](https://github.com/joaofilipesilvawty/project1) - A description of the first project.
-- [Project 2](https://github.com/joaofilipesilvawty/project2) - A description of the second project.
-- [Project 3](https://github.com/joaofilipesilvawty/project3) - A description of the third project.
-
 ###
 
 <h2 align="left">Social Accounts</h2>
@@ -58,8 +47,5 @@ Here are some of the projects I've been working on:
   </a>
   <a href="https://www.instagram.com/_.joaof_swty_9._/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/joaofilipesilvawty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
