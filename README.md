@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm João Filipe Silva, I'm 27 years old and I am in the field of cybersecurity.</p>
+<p align="left">I'm João Filipe Silva, I'm 27 years old, and I work in the field of cybersecurity. I’m passionate about software development, penetration testing, and securing systems. Always looking for new challenges and opportunities to grow!</p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">Coding</h2>
+<h2 align="left">Coding Skills</h2>
 
 ###
 
@@ -28,14 +28,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
 </div>
 
 ###
-  
-</div>
+
+<h2 align="left">Projects</h2>
+
+<p align="left">
+Here are some of the projects I've been working on:
+</p>
+
+- [Project 1](https://github.com/joaofilipesilvawty/project1) - A description of the first project.
+- [Project 2](https://github.com/joaofilipesilvawty/project2) - A description of the second project.
+- [Project 3](https://github.com/joaofilipesilvawty/project3) - A description of the third project.
 
 ###
 
@@ -57,5 +63,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
-
-###
