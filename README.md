@@ -1,21 +1,23 @@
-# 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
-## 🫶🏻 ʜɪ ᴛʜᴇʀᴇ! ɪ'ᴍ ᴊᴏᴀᴏ ғɪʟɪᴘᴇ sɪʟᴠᴀ, ᴀ **ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ**, **ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋᴇʀ**, ᴀɴᴅ **ᴄʟᴏᴜᴅ & sᴇᴄᴜʀɪᴛʏ sᴘᴇᴄɪᴀʟɪsᴛ** ғʀᴏᴍ ᴘᴏʀᴛᴜɢᴀʟ, ᴄᴜʀʀᴇɴᴛʟʏ ʟɪᴠɪɴɢ ɪɴ ᴍᴀᴅʀɪᴅ, sᴘᴀɪɴ.<br><br>ᴡɪᴛʜ ᴀ sᴛʀᴏɴɢ ʙᴀᴄᴋɢʀᴏᴜɴᴅ ɪɴ **ᴘᴇɴᴇᴛʀᴀᴛɪᴏɴ ᴛᴇsᴛɪɴɢ**, **ɴᴇᴛᴡᴏʀᴋ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ**, ᴀɴᴅ **sᴇᴄᴜʀɪᴛʏ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ**, ɪ ᴀᴍ ᴄᴏɴsᴛᴀɴᴛʟʏ ᴇɴʜᴀɴᴄɪɴɢ ᴍʏ sᴋɪʟʟs ɪɴ **ᴏʀᴀᴄʟᴇ**, **ᴘᴏsᴛɢʀᴇsǫʟ**, **sǫʟ**, ᴀɴᴅ **ᴄʟᴏᴜᴅ sᴇᴄᴜʀɪᴛʏ** ᴛᴏ ᴇɴsᴜʀᴇ sʏsᴛᴇᴍs ʀᴇᴍᴀɪɴ sᴇᴄᴜʀᴇ ᴀɴᴅ ᴇғғɪᴄɪᴇɴᴛ.<br><br>🔧 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴡɪᴛʜ:<br>- **ᴏʀᴀᴄʟᴇ ᴅᴀᴛᴀʙᴀsᴇ** ᴀɴᴅ **ᴘᴏsᴛɢʀᴇsǫʟ** ғᴏʀ sᴇᴄᴜʀᴇ ᴅᴀᴛᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.<br>- **ᴘʏᴛʜᴏɴ**, **ᴅᴏᴄᴋᴇʀ**, ᴀɴᴅ **ᴋᴜʙᴇʀɴᴇᴛᴇs** ғᴏʀ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴀɴᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ.<br>-**sʜᴇʟʟ sᴄʀɪᴘᴛɪɴɢ** ᴀɴᴅ **ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋɪɴɢ** ᴛᴏ ɪᴍᴘʀᴏᴠᴇ sʏsᴛᴇᴍ sᴇᴄᴜʀɪᴛʏ.<br><br>ᴡʜᴇɴ ɪ'ᴍ ɴᴏᴛ ᴄᴏᴅɪɴɢ, ɪ ᴅɪᴠᴇ ᴅᴇᴇᴘ ɪɴᴛᴏ ᴛʜᴇ ʟᴀᴛᴇsᴛ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴛʀᴇɴᴅs, ʟᴇᴀʀɴ ɴᴇᴡ ᴛᴇᴄʜɴɪǫᴜᴇs, ᴀɴᴅ ᴡᴏʀᴋ ᴏɴ ᴘᴇʀsᴏɴᴀʟ ᴘʀᴏᴊᴇᴄᴛs.<br><br>🔭 ᴄᴜʀʀᴇɴᴛʟʏ ғᴏᴄᴜsᴇᴅ ᴏɴ:<br>- ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴀɪ sʏsᴛᴇᴍs ғᴏʀ ᴘᴇʀsᴏɴᴀʟ ᴀɴᴅ ᴄᴏᴍᴘᴀɴʏ ᴜsᴇ.<br>- ᴇɴʜᴀɴᴄɪɴɢ ᴍʏ **ᴘᴇɴᴇᴛʀᴀᴛɪᴏɴ ᴛᴇsᴛɪɴɢ** sᴋɪʟʟs.<br>- ᴇxᴘʟᴏʀɪɴɢ **ᴄʏʙᴇʀ ᴛʜʀᴇᴀᴛ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ**.<br><br>ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ɪғ ʏᴏᴜ'ᴅ ʟɪᴋᴇ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴀ ᴘʀᴏᴊᴇᴄᴛ ᴏʀ ᴊᴜsᴛ ᴄʜᴀᴛ ᴀʙᴏᴜᴛ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ, ᴛᴇᴄʜ, ᴏʀ ᴀɴʏᴛʜɪɴɢ ᴇʟsᴇ!
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.joaof_swty_9._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaofilipesilvawty) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_.joaof_swty_cyber._) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joaofilipesilvawty&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaofilipesilvawty&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofilipesilvawty&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=joaofilipesilvawty&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_.joaof_swty_cyber._) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1>🫶🏻 ʜɪ ᴛʜᴇʀᴇ! ɪ'ᴍ ᴊᴏᴀᴏ ғɪʟɪᴘᴇ sɪʟᴠᴀ</h1>
+<p>ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋᴇʀ | ᴄʟᴏᴜᴅ & sᴇᴄᴜʀɪᴛʏ sᴘᴇᴄɪᴀʟɪsᴛ</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/joaofilipesilvawty" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/_.joaof_swty_9._" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaofilipesilvawty&" alt="joaofilipesilvawty" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaofilipesilvawty&show_icons=true&locale=en&layout=compact" alt="joaofilipesilvawty" /></p>
+<h2>❤️ Support Me</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/_.joaof_swty_cyber._">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+</p>
